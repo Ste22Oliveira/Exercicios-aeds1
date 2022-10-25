@@ -23,8 +23,12 @@ public class Aula2410 {
          Lista.insere(15);
          
          Lista.imprime();
+         
+         Lista.retira(15); Lista.retira(22);
+         
+         Lista.imprime();
               
           }
     }
     
-}
+
